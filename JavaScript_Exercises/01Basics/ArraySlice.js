@@ -3,7 +3,7 @@ function arraySlice(n) {
   let output = "";
   console.log("DEBUG_BOMB - NOW WHAT IS N? [" + n + "]");
   if (isNaN.n === 0) {
-    console.log("ERROR - No zeros dunbass!");
+    console.log("ERROR - No zeros dumbass!");
     return false;
   }
   try {
